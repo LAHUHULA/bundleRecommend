@@ -40,6 +40,6 @@ CONFIG = {
     'retry': 1,
 
     ## test path
-    'test':['/kaggle/working/bundleRecommend/BGCN/log/NetEase/BGCN_tune/04-15-09-52-16-some_note/model.csv']
+    'test':['/kaggle/working/bundleRecommend/BGCN/log/NetEase/BGCN_tune/04-15-09-52-16-some_note/']
 }
 
